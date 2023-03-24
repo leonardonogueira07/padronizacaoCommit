@@ -30,8 +30,9 @@ O body do commit padrão é opcional, mas usando ele, você poderá abstrair mai
 Como o body, footer do comit padrão é opcional, nele você poderá coloca as referencias que te ajudou no desenvolvimento do recurso como também informando o seu nome e a data do commit.
 
 ## Exemplo
-
+```
 git commit -m '(Fix) - Correção de erro exibir a window'
+```
 
 ## Contribuidores
 
