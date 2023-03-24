@@ -31,7 +31,7 @@ Como o body, footer do comit padrão é opcional, nele você poderá coloca as r
 
 ## Exemplo
 
-git commit -m '(Fix) - Correção de erro exibir a window
+git commit -m '(Fix) - Correção de erro exibir a window'
 
 ## Contribuidores
 
